@@ -1,5 +1,5 @@
 // Scale a number, mapping between two number ranges
-const mapNumberToRange = (
+export const mapNumberToRange = (
   input: number,
   inputRangeMin: number,
   inputRangeMax: number,
